@@ -1,6 +1,8 @@
+import styles from "../style/Header.module.css";
+
 export default () => {
     return(
-        <header>
+        <header className={styles.ciao}>
             <h1>Il mio blog</h1>
         </header>
     )
