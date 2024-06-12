@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "img": "https://picsum.photos/600/400?random=1",
+      "title": "Montagne innevate",
+      "description": "Uno splendido panorama di montagne coperte di neve sotto un cielo limpido."
+    },
+    {
+      "id": 2,
+      "img": "https://picsum.photos/600/400?random=2",
+      "title": "Tramonto sul mare",
+      "description": "Un suggestivo tramonto che colora il cielo e si riflette sulle onde del mare."
+    },
+    {
+      "id": 3,
+      "img": "https://picsum.photos/600/400?random=3",
+      "title": "Foresta autunnale",
+      "description": "Un sentiero che attraversa una foresta dai colori caldi e autunnali."
+    },
+    {
+      "id": 4,
+      "img": "https://picsum.photos/600/400?random=4",
+      "title": "Città notturna",
+      "description": "Le luci della città che illuminano la notte creando un'atmosfera vibrante."
+    },
+    {
+      "id": 5,
+      "img": "https://picsum.photos/600/400?random=5",
+      "title": "Lago tranquillo",
+      "description": "Un lago calmo e sereno, circondato da montagne e foreste."
+    },
+    {
+      "id": 6,
+      "img": "https://picsum.photos/600/400?random=6",
+      "title": "Campo di fiori",
+      "description": "Un vasto campo pieno di fiori colorati che sbocciano sotto il sole."
+    },
+    {
+      "id": 7,
+      "img": "https://picsum.photos/600/400?random=7",
+      "title": "Strada di campagna",
+      "description": "Una strada sterrata che si snoda tra colline verdi e prati fioriti."
+    },
+    {
+      "id": 8,
+      "img": "https://picsum.photos/600/400?random=8",
+      "title": "Deserto dorato",
+      "description": "Dune di sabbia dorata che si estendono all'orizzonte sotto un cielo azzurro."
+    },
+    {
+      "id": 9,
+      "img": "https://picsum.photos/600/400?random=9",
+      "title": "Cascata impetuosa",
+      "description": "Una cascata maestosa che scende impetuosa tra le rocce e la vegetazione."
+    },
+    {
+      "id": 10,
+      "img": "https://picsum.photos/600/400?random=10",
+      "title": "Ponte antico",
+      "description": "Un antico ponte di pietra che attraversa un fiume, immerso nella natura."
+    }
+  ]
+  
