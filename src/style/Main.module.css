@@ -1,0 +1,37 @@
+.card {
+    width: 30rem;
+    background-color: white;
+    border-radius: 1rem;
+    
+}
+
+.container {
+    background-color: aliceblue;
+    padding: 1rem 0rem 4rem;    
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.postTitle {
+    padding: 1rem;
+}
+
+.txtContainer {
+    padding: 1rem 0.5rem;
+}
+
+.description {
+    padding: 1rem 0;
+}
+
+.button { 
+    background-color: goldenrod;
+    padding: 0.5rem 1rem;
+    color: white;
+    width: fit-content;
+}
