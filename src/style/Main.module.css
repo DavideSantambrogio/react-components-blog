@@ -6,7 +6,7 @@
 }
 
 .container {
-    background-color: aliceblue;
+    background-color: #e5e5e5;
     padding: 1rem 0rem 4rem;    
     display: flex;
     justify-content: center;
@@ -30,7 +30,7 @@
 }
 
 .button { 
-    background-color: goldenrod;
+    background-color: #daa521;
     padding: 0.5rem 1rem;
     color: white;
     width: fit-content;
